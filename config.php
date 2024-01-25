@@ -1,0 +1,2 @@
+<?php
+$ATABASE_PASSWORD = 1234
